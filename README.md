@@ -1,4 +1,4 @@
-Project: Landing page from Odin Project curriculum. Created by Jerry Ataja.
+Project: Sample business homepage. Created by Jerry Ataja.
 
 Images used:
 
